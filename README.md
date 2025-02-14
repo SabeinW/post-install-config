@@ -59,7 +59,7 @@ Assign staff members to specific departments and grant them relevant permissions
 <img src="https://i.imgur.com/QlUavgy.pnghttps://i.imgur.com/QlUavgy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+By configuring Teams in osTicket, you can, organize staff members into smaller, more manageable groups based on their expertise or department, assign tickets to an entire team, making collaboration more efficient and fine-tune permissions and responsibilities to make sure teams only access the tickets and features relevant to them.
 </p>
 <br />
 
