@@ -71,7 +71,7 @@ By configuring Teams in osTicket, you can, organize staff members into smaller, 
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+By configuring agents in osTicket, you ensure that each staff member has the appropriate level of access and responsibility to manage and resolve support tickets. Roles, departments, and teams help you streamline ticket management, and configuring agent permissions ensures that agents can only perform tasks relevant to their role.
 </p>
 <br />
 
@@ -81,7 +81,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/1JGvIsu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Configuring users in osTicket, you ensure that customers can submit tickets, track their status, and receive relevant notifications. You can assign them to specific departments, enable them to interact with your support system, and customize their permissions based on your business needs.
 </p>
 <br />
 
@@ -90,7 +90,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/S9lFLZv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Configuring SLAs in osTicket ensures that you meet your organization's ticket handling goals by enforcing timely responses and resolutions. You can set specific targets for response and resolution times based on ticket priority, department, or type. Additionally, you can automate notifications and escalate tickets that approach or breach SLA targets.
 </p>
 <br />
 
@@ -100,6 +100,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/vOpVWGd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Configuring Help Topics in osTicket is crucial for organizing incoming support requests and ensuring that they are routed to the right department. By giving users the ability to select the appropriate help topic, you streamline the support process, which improves both user experience and response times.
 </p>
 <br />
