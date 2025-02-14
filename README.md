@@ -49,9 +49,8 @@ Open your osTicket installation in a browser (e.g., your-domain.com/support/). L
 <img src="https://i.imgur.com/lg7S1ZC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/hs9tTGB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<p>Navigate to the "Manage" Section, Add a New Department, Assign Department to Staff, Configure Department-Specific Permissions. By configuring Departments in osTicket, you can, Organize and manage tickets based on different functional areas (e.g., Help Desk, SysAdmins, Networking).
-Assign staff members to specific departments and grant them relevant permissions.
-Control ticket visibility to ensure that only authorized staff members can see and work on tickets from their department.
+<p>Navigate to the "Agents" Section, Add a New Department, Assign Department to Staff, Configure Department-Specific Permissions. By configuring Departments in osTicket, you can, Organize and manage tickets based on different functional areas (e.g., Help Desk, SysAdmins, Networking).
+Assign staff members to specific departments and grant them relevant permissions. Control ticket visibility to ensure that only authorized staff members can see and work on tickets from their department.
 </p>
 <br />
 
