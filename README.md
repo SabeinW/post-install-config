@@ -40,7 +40,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img src="https://i.imgur.com/oaPMOPI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Open your osTicket installation in a browser (e.g., your-domain.com/support/). Log in to the Admin Panel using your Admin credentials. In the Roles section, click on the "Add New Role" button .You will be prompted to provide a Role Name. Choose a descriptive name based on the responsibilities that role will have (e.g., "Support Staff", "Admin", "Manager", etc.).
 </p>
 <br />
 
@@ -49,8 +49,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/lg7S1ZC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/hs9tTGB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<p>Navigate to the "Manage" Section, Add a New Department, Assign Department to Staff, Configure Department-Specific Permissions. By configuring Departments in osTicket, you can, Organize and manage tickets based on different functional areas (e.g., Help Desk, SysAdmins, Networking).
+Assign staff members to specific departments and grant them relevant permissions.
+Control ticket visibility to ensure that only authorized staff members can see and work on tickets from their department.
 </p>
 <br />
 
